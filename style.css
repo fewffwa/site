@@ -1,0 +1,65 @@
+body{
+    background-image:
+        url("Data/homeWallpaper.jpg")
+}
+a{
+  margin:0 auto;
+  display:table;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+h1{
+    
+}
+na{
+    
+    font-size: 30px;
+    list-style-type: none;
+    margin:auto;
+    width:50%;
+  overflow: hidden;
+    display: block;
+        text-align: center;
+    color:white
+
+}
+na2{
+    font-size: 30px;
+    list-style-type: none;
+    margin:auto;
+    width:50%;
+  overflow: hidden;
+    display: block;
+    text-align: center;
+
+}
+nt{
+width: 150px;
+height: 150px;
+}
+na3{
+    font-size: 20px;
+    list-style-type: none;
+     margin: auto;
+  padding: none;
+  overflow: hidden;
+    display: block;
+    text-align: center;
+    color:white;
+
+}
+li{
+    float:left;
+}
+li a {
+display: block;
+  padding: 8px;
+   background-color: #7CFC00;
+}
+h1{
+ 
+}
